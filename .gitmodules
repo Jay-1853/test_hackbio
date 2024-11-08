@@ -1,0 +1,6 @@
+[submodule "stage_3"]
+	path = stage_3
+	url = https://github.com/shalaka98/Hackbio-cancer-internship-stage-3.git
+[submodule "stage_4"]
+	path = stage_4
+	url = https://github.com/shalaka98/HACBIO-STAGE-4.git
